@@ -1,5 +1,7 @@
 # Come Back to Tab
 
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/come-back-to-tab/nicbmleekfgcplpjljccapgiagfnabfl)
+
 Do you ever start a build or other long-running process in a tab and forget
 to come back to it, or just keep that tab open until it completes and forgo
 the opportunity to get more work done? Never forget a tab with this extension!

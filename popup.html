@@ -1,0 +1,26 @@
+<!-- Copyright 2022 Robert Irelan <rirelan@gmail.com>. All rights reserved.
+Use of this source code is governed by a BSD-style license that can be
+found in the LICENSE file. -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Come back to tab</title>
+    <style>
+      body {
+        text-align: center;
+      }
+    </style>
+    <!--
+      - JavaScript and HTML must be in separate files
+     -->
+  </head>
+  <body>
+      <!-- An Alarm delay of less than the minimum 1 minute will fire
+      in approximately 1 minute increments if released -->
+      <form id="popup">
+        <label for="delay">Minutes for reminder (press Enter to set reminder):</label>
+        <input type="number" id="delayField" name="delay" value="5">
+      </form>
+      <script src="popup.js"></script>
+  </body>
+</html>

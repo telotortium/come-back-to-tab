@@ -1,7 +1,7 @@
 {
   "name": "Come Back to Tab",
   "description": "Adds button to set reminders to come back to a tab",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "manifest_version": 3,
   "author": "Robert Irelan",
   "homepage_url": "https://github.com/telotortium/come-back-to-tab",
